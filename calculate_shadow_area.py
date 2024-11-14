@@ -5,3 +5,5 @@ def calculate_shadow_area(D):
 
 D=int(input("Enter value of radius: "))
 print("The area of given circle is",calculate_shadow_area(D))
+
+

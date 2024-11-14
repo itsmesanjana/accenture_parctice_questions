@@ -1,6 +1,6 @@
-def count_occurrences(S,N,C):
+def count_occurrences(S,C):
     return S.count(C)
 S=input("")
-N=int(input("Enter the len of strings:"))
+# N=int(input("Enter the len of strings:"))
 C=input("Enter charcter to count:")
-print(count_occurrences(S,N,C))
+print(count_occurrences(S,C))
